@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 ### I'm Alexis Coronado
 
-## I am a person passionate about programming
-## and with availability to enter python projects
+## I am a person passionate about programming \n and with availability to enter python projects
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlexisCoronado&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlexisCORAN&show_icons=true&theme=radical)
 
