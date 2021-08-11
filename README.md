@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋 , My friend !!
 
 <!--
 **AlexisCORAN/AlexisCORAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I'm Alexis Coronado
+
+## I am a person passionate about programming
+## and with availability to enter python projects
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlexisCoronado&show_icons=true&theme=radical)
+
