@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlexisCORAN&show_icons=true&theme=radical)
 
-<p> 
-	#### Proyects:
-	* [Clone Airbnb](https://github.com/AlexisCORAN/AirBnB_clone_v4)
-	* [Simple Shell](https://github.com/AlexisCORAN/simple_shell)
-	* [App in Flutter](https://github.com/AlexisCORAN/watchpets_app)
-<p>
+#### Proyects:
+* [Clone Airbnb](https://github.com/AlexisCORAN/AirBnB_clone_v4)
+* [Simple Shell](https://github.com/AlexisCORAN/simple_shell)
+* [App in Flutter](https://github.com/AlexisCORAN/watchpets_app)
+
