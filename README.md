@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 * [Simple Shell](https://github.com/AlexisCORAN/simple_shell)
 * [App in Flutter](https://github.com/AlexisCORAN/watchpets_app)
 * [Discord bot in Python](https://github.com/AlexisCORAN/Checker_Challenge)
-
+* [Mastermind Game in Javascript](https://github.com/AlexisCORAN/Mastermind_Challenge)
