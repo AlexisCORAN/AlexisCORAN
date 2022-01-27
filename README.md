@@ -27,4 +27,5 @@ Here are some ideas to get you started:
 * [Clone Airbnb](https://github.com/AlexisCORAN/AirBnB_clone_v4)
 * [Simple Shell](https://github.com/AlexisCORAN/simple_shell)
 * [App in Flutter](https://github.com/AlexisCORAN/watchpets_app)
+* [Discord bot in Python](https://github.com/AlexisCORAN/Checker_Challenge)
 
