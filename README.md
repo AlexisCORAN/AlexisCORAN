@@ -1,62 +1,99 @@
-<h1 align="center">Hi there! 👋 I'm Alexis Coronado</h1>
+<h1 align="center">Alexis Coronado</h1>
 
 <p align="center">
-  <strong>Systems Engineering Student | Full-Stack Developer</strong>
+  Systems Engineering Student — Building backends that scale, apps that run everywhere
 </p>
 
-I am a developer based in Lima, Peru, specializing in building robust backend architectures and cross-platform applications. Whether it's processing large datasets, building mobile interfaces, or writing low-level code, I enjoy tackling complex logic problems and turning them into scalable solutions.
-
-### Tech Stack & Ecosystem
-
-**Languages** <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-4CAF50?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lima%2C%20Peru-CC2929?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Internship%20%2F%20Junior%20roles-1565C0?style=flat-square&logoColor=white" />
 </p>
 
-**System Administration & DevOps** <p align="left">
-  <img src="https://img.shields.io/badge/Linux_Server-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Server" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white" alt="Vagrant" />
+---
+
+## About me
+
+Systems engineering student focused on backend architecture, low-level programming, and cross-platform development. I enjoy working close to the metal — from implementing `fork`/`execve` syscalls in C to deploying containerized apps with Docker. Most of my projects come from Holberton School, where I built real systems collaboratively under production-like constraints.
+
+Currently looking for my first professional role where I can contribute from day one and keep growing fast.
+
+---
+
+## Tech Stack
+
+**Languages**
+`Python` `Java` `C` `JavaScript` `Dart`
+
+**Backend & Databases**
+`PostgreSQL` `MySQL` `SQL Server`
+
+**DevOps & Systems**
+`Linux` `Docker` `Nginx` `Apache` `Vagrant`
+
+**Frontend & Mobile**
+`Flutter` `Three.js` `HTML5` `CSS3`
+
+**Cloud & BaaS**
+`Firebase` `SSH / Remote Servers`
+
+---
+
+## Featured Projects
+
+### [WatchPets — Real-time pet alert mobile app](https://github.com/AlexisCORAN/watchpets_app)
+Cross-platform iOS/Android app built with Flutter and Firebase. Users can send geolocated alerts to nearby contacts when a pet goes missing, including a full pet profile, live location via Google Maps, and optional message. Supports Facebook OAuth login and real-time alert feed ordered by recency.
+
+`Dart` `Flutter` `Firebase` `Google Maps API` `Facebook OAuth`
+
+---
+
+### [AirBnB Clone — Full-stack booking platform](https://github.com/AlexisCORAN/AirBnB_clone_v4)
+Multi-phase full-stack replica of the core Airbnb platform. Built a custom command-line console in Python to manage persistent objects (users, places, reviews) via a JSON storage engine. Includes a complete OOP model hierarchy, PEP8-compliant codebase, and a full unit test suite covering all models and storage methods.
+
+`Python` `OOP` `JSON serialization` `Unit testing` `REST API`
+
+> Collaborative project — 6 contributors across multiple development phases
+
+---
+
+### [Simple Shell — UNIX command interpreter in C](https://github.com/AlexisCORAN/simple_shell)
+Custom shell built from scratch in C with zero external libraries. Implements process creation via `fork`/`execve`, command parsing with `strtok`, environment variable handling, interactive and non-interactive modes, and memory-leak-free execution. Compiled with strict GCC flags (`-Wall -Werror -Wextra -pedantic`) on Ubuntu 14.04.
+
+`C` `UNIX syscalls` `Process management` `Memory management`
+
+> Output matches `/bin/sh` behavior exactly in both interactive and non-interactive modes
+
+---
+
+### [Discord Automation Bot — Holberton API integration](https://github.com/AlexisCORAN/Checker_Challenge)
+Event-driven Discord bot in Python that integrates with the Holberton School API. Allows students to query their profile data and project details directly from Discord. Commands include profile lookup, profile photo retrieval, and per-project task breakdown by ID.
+
+`Python` `discord.py` `REST API integration` `Async event handling`
+
+> Built collaboratively with a 7-person team
+
+---
+
+### [Mastermind — Browser logic game with Docker deploy](https://github.com/AlexisCORAN/Mastermind_Challenge)
+Interactive browser implementation of the classic code-breaking game. Built with vanilla JavaScript — no frameworks or dependencies. Features color-peg logic, win/lose state management, responsive layout, and a live online version. Containerized with Docker and published to Docker Hub.
+
+`JavaScript` `HTML5` `CSS3` `Docker`
+
+> [Play online](https://alexiscoran.github.io/Mastermind_Challenge/Game_Files/index.html) · [Docker image](https://hub.docker.com/r/andrescondezo/mastermind_js): `docker run -p 8080:80 -d andrescondezo/mastermind_js`
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AlexisCORAN&theme=github-dark-dimmed&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
-**Backend & Databases** <p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisCORAN&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
-**Frontend & Mobile** <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AlexisCORAN&theme=darkhub&no-frame=true&row=1&column=6&margin-w=4" alt="GitHub Trophies" />
 </p>
-
-**Cloud & BaaS** <p align="left">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/SSH_Terminal-4EAA25?style=for-the-badge&logo=gnome-terminal&logoColor=white" alt="SSH & Remote Servers" />
-</p>
-
-### GitHub Stats
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexisCORAN&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisCORAN&layout=compact&theme=radical&hide_border=true" />
-</div>
-
-### Featured Projects
-
-* **[AirBnb System Clone](#)** - A full-stack replica of the core Airbnb platform, focusing on property listing, user authentication, and booking logic.
-* **[UNIX-like Custom Shell](#)** - A custom command-line interpreter built in **C**, implementing process creation, execution, and fundamental system calls.
-* **[Cross-Platform Mobile App](#)** - A dynamic application built with **Flutter** focused on performance and seamless UI/UX.
-* **[Automated Discord Utility Bot](#)** - A highly responsive bot developed in **Python** for server management and custom API integrations.
-* **[Mastermind Logic Game](#)** - An interactive web-based implementation of the classic code-breaking game using **JavaScript**.
-
-*(Click on any project to read its detailed documentation).*
-
-###  Let's Connect
-* **LinkedIn:** [Alexis Coronado](#)
