@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-4CAF50?style=flat-square&logoColor=white" alt="Open to Work" />
   <img src="https://img.shields.io/badge/Lima%2C%20Peru-CC2929?style=flat-square&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Internship%20%2F%20Junior%20roles-1565C0?style=flat-square&logoColor=white" alt="Roles" />
 </p>
@@ -21,38 +22,46 @@ Currently looking for my first professional role where I can contribute from day
 
 ## Tech Stack
 
-**Languages** <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+**Languages**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
 </p>
 
-**Backend & Databases** <p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+**Backend & Databases**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
 </p>
 
-**DevOps & Systems** <p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
-  <img src="https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white" alt="Vagrant" />
+**DevOps & Systems**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vagrant-1563FF?style=flat-square&logo=vagrant&logoColor=white" />
 </p>
 
-**Frontend & Mobile** <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+**Frontend & Mobile**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-**Cloud & BaaS** <p align="left">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/SSH_Terminal-4EAA25?style=for-the-badge&logo=gnome-terminal&logoColor=white" alt="SSH & Remote Servers" />
+**Cloud & BaaS**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 </p>
 
 ---
@@ -60,81 +69,34 @@ Currently looking for my first professional role where I can contribute from day
 ## Featured Projects
 
 ### [WatchPets — Real-time pet alert mobile app](https://github.com/AlexisCORAN/watchpets_app)
-Cross-platform iOS/Android app built with Flutter and Firebase. Users can send geolocated alerts to nearby contacts when a pet goes missing, including a full pet profile, live location via Google Maps, and optional message. Supports Facebook OAuth login and real-time alert feed ordered by recency.
+Cross-platform iOS/Android app built with Flutter and Firebase. Users can send geolocated alerts to nearby contacts when a pet goes missing — including full pet profile, live Google Maps location, and optional message. Supports Facebook OAuth and a real-time alert feed ordered by recency.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Facebook_OAuth-1877F2?style=flat-square&logo=facebook&logoColor=white" />
-</p>
+**Final project of the Holberton School Foundations program** — [View project blog](https://www.linkedin.com/posts/alexis-coran_hello-everyone-i-am-sharing-my-watchpets-activity-6864341761909686273-mtlp)
 
 ---
 
 ### [AirBnB Clone — Full-stack booking platform](https://github.com/AlexisCORAN/AirBnB_clone_v4)
-Multi-phase full-stack replica of the core Airbnb platform. Built a custom command-line console in Python to manage persistent objects (users, places, reviews) via a JSON storage engine. Includes a complete OOP model hierarchy, PEP8-compliant codebase, and a full unit test suite covering all models and storage methods.
+Multi-phase full-stack replica of the Airbnb platform. Built a custom CLI console in Python to manage persistent objects (users, places, reviews) via a JSON storage engine. Includes a complete OOP model hierarchy, PEP8-compliant codebase, and unit test suite covering all models and storage methods.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOP-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unit_Testing-4CAF50?style=flat-square" />
-  <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square" />
-</p>
-
-> Collaborative project — 6 contributors across multiple development phases
+**6 contributors across multiple development phases**
 
 ---
 
 ### [Simple Shell — UNIX command interpreter in C](https://github.com/AlexisCORAN/simple_shell)
-Custom shell built from scratch in C with zero external libraries. Implements process creation via `fork`/`execve`, command parsing with `strtok`, environment variable handling, interactive and non-interactive modes, and memory-leak-free execution. Compiled with strict GCC flags (`-Wall -Werror -Wextra -pedantic`) on Ubuntu 14.04.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/UNIX_Syscalls-FF4500?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Process_Management-607D8B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Memory_Management-7952B3?style=flat-square" />
-</p>
-
-> Output matches `/bin/sh` behavior exactly in both interactive and non-interactive modes
+Custom shell built from scratch in C with zero external libraries. Implements process creation via `fork`/`execve`, command parsing, environment variable handling, and interactive/non-interactive modes. Compiled with strict GCC flags (`-Wall -Werror -Wextra -pedantic`). Output matches `/bin/sh` exactly.
 
 ---
 
 ### [Discord Automation Bot — Holberton API integration](https://github.com/AlexisCORAN/Checker_Challenge)
-Event-driven Discord bot in Python that integrates with the Holberton School API. Allows students to query their profile data and project details directly from Discord. Commands include profile lookup, profile photo retrieval, and per-project task breakdown by ID.
+Event-driven Discord bot in Python integrated with the Holberton School API. Lets students query profile data and project task breakdowns directly from Discord.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square" />
-  <img src="https://img.shields.io/badge/Async_Events-FF9800?style=flat-square" />
-</p>
-
-> Built collaboratively with a 7-person team
+**Built collaboratively with a 7-person team**
 
 ---
 
-### [Mastermind — Browser logic game with Docker deploy](https://github.com/AlexisCORAN/Mastermind_Challenge)
-Interactive browser implementation of the classic code-breaking game. Built with vanilla JavaScript — no frameworks or dependencies. Features color-peg logic, win/lose state management, responsive layout, and a live online version. Containerized with Docker and published to Docker Hub.
+### [Mastermind — Browser logic game](https://github.com/AlexisCORAN/Mastermind_Challenge)
+Vanilla JavaScript implementation of the classic code-breaking game. No frameworks, no dependencies. Responsive layout, deployed online and containerized with Docker.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
-</p>
+[Play online](https://alexiscoran.github.io/Mastermind_Challenge/Game_Files/index.html) · [Docker Hub](https://hub.docker.com/r/andrescondezo/mastermind_js)
 
-> [Play online](https://alexiscoran.github.io/Mastermind_Challenge/Game_Files/index.html) · [Docker image](https://hub.docker.com/r/andrescondezo/mastermind_js): `docker run -p 8080:80 -d andrescondezo/mastermind_js`
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AlexisCORAN&theme=github-dark-dimmed&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisCORAN&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
