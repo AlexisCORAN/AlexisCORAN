@@ -65,8 +65,6 @@ Currently looking for my first professional role where I can contribute from day
 ### [WatchPets — Real-time pet alert mobile app](https://github.com/AlexisCORAN/watchpets_app)
 Cross-platform iOS/Android app built with Flutter and Firebase. Users can send geolocated alerts to nearby contacts when a pet goes missing — including full pet profile, live Google Maps location, and optional message. Supports Facebook OAuth and a real-time alert feed ordered by recency.
 
-**Final project of the Holberton School Foundations program** — [View project blog](https://www.linkedin.com/posts/alexis-coran_hello-everyone-i-am-sharing-my-watchpets-activity-6864341761909686273-mtlp)
-
 ---
 
 ### [AirBnB Clone — Full-stack booking platform](https://github.com/AlexisCORAN/AirBnB_clone_v4)
