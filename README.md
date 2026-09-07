@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Lima%2C%20Peru-CC2929?style=flat-square&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Internship%20%2F%20Junior%20roles-1565C0?style=flat-square&logoColor=white" alt="Roles" />
 </p>
 
 ---
