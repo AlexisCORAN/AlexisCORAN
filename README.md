@@ -61,12 +61,12 @@ Currently looking for my first professional role where I can contribute from day
 
 ## Featured Projects
 
-### [ER Bikers — Responsive E-Commerce Web Platform](https://github.com/AlexisCORAN/ER-Bikers-Web)
+### [ER Bikers — Responsive E-Commerce Web Platform](https://github.com/AlexisCORAN/ER-BIKERS)
 Responsive e-commerce website built from scratch using semantic HTML5 and modern CSS3 (Flexbox, Grid, keyframe animations, and media queries). Designed for motorcycle riding gear and protective accessories, focusing on clean UI layout, cross-browser compatibility, mobile responsiveness, and on-page SEO asset optimization.
 
 ---
 
-### [Veterinary Appointment Manager — Java Desktop & Data Structures](https://github.com/AlexisCORAN/Veterinary-Management-System)
+### [Veterinary Appointment Manager — Java Desktop & Data Structures](https://github.com/AlexisCORAN/Proyecto-Veterinaria)
 Desktop management system built in Java Swing implementing custom linear and non-linear data structures from scratch (linked lists, queues, stacks, and binary search trees) without relying on built-in collection frameworks. Features object binary serialization for persistent local storage and modular 3-tier architecture.
 
 ---
