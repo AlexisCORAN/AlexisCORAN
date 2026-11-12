@@ -12,7 +12,7 @@
 
 ## About me
 
-Systems engineering student focused on backend architecture, web development, low-level programming, and cross-platform applications. I enjoy working across the full stack — from designing responsive frontend interfaces and implementing `fork`/`execve` syscalls in C, to building custom data structures in Java and deploying containerized apps with Docker. 
+Systems engineering student focused on backend architecture, web development, low-level programming, and cross-platform applications. I enjoy working across the full stack — from designing responsive frontend interfaces and implementing `fork`/`execve` syscalls in C, to building transactional systems with SQL Server, custom data structures in Java, and containerized apps with Docker.
 
 Currently looking for my first professional role where I can contribute from day one and keep growing fast.
 
@@ -63,6 +63,11 @@ Currently looking for my first professional role where I can contribute from day
 
 ### [ER Bikers — Responsive E-Commerce Web Platform](https://github.com/AlexisCORAN/ER-BIKERS)
 Responsive e-commerce website built from scratch using semantic HTML5 and modern CSS3 (Flexbox, Grid, keyframe animations, and media queries). Designed for motorcycle riding gear and protective accessories, focusing on clean UI layout, cross-browser compatibility, mobile responsiveness, and on-page SEO asset optimization.
+
+---
+
+### [SistemaEscuela — Transactional Academic Management System](https://github.com/AlexisCORAN/SistemaEscuela)
+Enterprise-grade desktop system built with Java Swing and SQL Server using a layered MVC + Service/DAO architecture. Implements custom ACID transaction management (`TransactionRunner`), automated SQL triggers for audit logging and historical grade locking, and aggregation-based reporting (`SUM`/`HAVING`) for academic risk detection.
 
 ---
 
